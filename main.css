@@ -16,6 +16,10 @@ ul {
     align-content: left;
 }
 
+ul, .fa-ul li{
+  word-wrap:normal;  
+}
+
 .top-navbar {
     width: 100%;
     background: navy;
